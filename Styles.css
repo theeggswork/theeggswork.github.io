@@ -4,6 +4,11 @@
 
 }
 
+.basic-needs2 {
+    font-family:Pixelify Sans;
+    font-size:small;
+}
+
 button {
     background-color:#f6e376;
     box-shadow: 5px 5px 7px rgba(66, 53, 53, 0.6);
